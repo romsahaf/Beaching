@@ -1,2 +1,2 @@
-# Translate-Memory
-React project of a memory game involving Google Translate
+# Beaching
+A REACT-HOOKS app that determines if you should go to the beach today or not
